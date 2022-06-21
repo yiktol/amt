@@ -14,7 +14,7 @@ You can use App2Container to generate container images for one or more applicati
 
 You can use App2Container directly on the application servers that are running your applications. If your server does not meet the requirements to containerize your application and deploy it to AWS, or if you do not want to install the Docker engine on the application server, you can set up and use a worker machine.
 
-![app2container-intro](/static/app2container/app2container-diagram.png)
+![app2container-intro](/amt/static/app2container/app2container-diagram.png)
 
 App2Container performs following tasks in 4 main categories:
 
