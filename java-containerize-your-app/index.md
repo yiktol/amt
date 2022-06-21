@@ -53,6 +53,6 @@ App2Container performs following tasks in 4 main categories:
 -   Pushes a change to the application source code and deploys it to the target container running on Fargate.
 
 
-::alert[**AWS App2Container** is offered at no additional charge. You are charged only when you use other AWS services to run your containerized application, such as Amazon ECR, Amazon ECS, Amazon EKS and AWS AppRunner]
+> **AWS App2Container** is offered at no additional charge. You are charged only when you use other AWS services to run your containerized application, such as Amazon ECR, Amazon ECS, Amazon EKS and AWS AppRunner
 
 In this lab you will containerize a legacy Java application on Linux Ubuntu using App2Container, and deploy it on Amazon ECS (Elastic Container Service).
