@@ -1,4 +1,7 @@
 ---
+permalink: /index.html
+---
+---
 title : "Containerize your Java App"
 weight : 81
 ---
