@@ -1,5 +1,5 @@
 ---
-permalink: index.html
+permalink: /index.html
 ---
 
 ## AWS App2Container Overview
