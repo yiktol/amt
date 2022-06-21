@@ -1,7 +1,3 @@
----
-permalink: /index.html
----
-
 ## AWS App2Container Overview
 
 [App2Container](https://aws.amazon.com/app2container) (A2C) is a command line tool to help you lift and shift applications that run in your on-premises data centers or on virtual machines, so that they run in containers that are managed by Amazon ECS, Amazon EKS, or AWS App Runner.
